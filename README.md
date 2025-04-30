@@ -50,7 +50,7 @@ The dataset used is the [TMDB 10000 Movies Dataset](https://www.kaggle.com/datas
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/movie-recommender.git
+git clone https://github.com/ahmedrezgui/movie-recommender.git
 cd movie-recommender
 ```
 
@@ -93,9 +93,11 @@ streamlit run app.py
 ├── requirements.txt
 └── README.md
 
+```
+
 ---
 
 ## 👨‍💻 Author
 
 Ahmed Rezgui  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or contribute!
+Feel free to connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-rezgui-a4983a276/)) or contribute!
