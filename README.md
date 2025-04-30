@@ -91,7 +91,6 @@ streamlit run app.py
 │
 ├── requirements.txt
 └── README.md
-
 ```
 
 ---
@@ -99,4 +98,4 @@ streamlit run app.py
 ## 👨‍💻 Author
 
 Ahmed Rezgui  
-Feel free to connect on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-rezgui-a4983a276/)) or contribute!
+Feel free to connect on [LinkedIn][https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-rezgui-a4983a276/) or contribute!
